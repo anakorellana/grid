@@ -14,7 +14,7 @@ The first one is "CREATE GRID" and the other one is "MOVE.
 + CLick on "MOVE" to higlight each cell at a time in order from 1-100
 
 
-<img src="grid.png" height="300"/>
+<img src="grid2.png" height="300"/>
 <br>
 
 <h2>Usage</h2>
@@ -27,7 +27,7 @@ Feel free to open the html file along with the images in the IDE of your choice 
 + Style the cells, rows/columns
 
 <br>
-<img src="grid2.png">
+<img src="grid.png">
 
 <h2>Support</h2>
 
