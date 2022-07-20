@@ -27,7 +27,7 @@ Feel free to open the html file along with the images in the IDE of your choice 
 + Style the cells, rows/columns
 
 <br>
-<img src="grid1.png">
+<img src="grid2.png">
 
 <h2>Support</h2>
 
